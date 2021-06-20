@@ -1,1 +1,1 @@
-# linkm3u
+#EXTM3U
