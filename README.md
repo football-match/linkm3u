@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/football-match/linkm3u/main/255px-UEFA_Euro_2020_Logo.svg.png" group-title="UEFA Euro 2020",12/06/2021 Turkey vs Italy GMT+7
-
+https://dl.dropboxusercontent.com/s/nkbm6iwgvvnnbsu/Ph%C3%A1t%20l%E1%BA%A1i%20_%20Th%E1%BB%95%20Nh%C4%A9%20K%C3%AC%20-%20Italia%20I%20Tr%E1%BA%ADn%20%C4%91%E1%BA%A5u%20khai%20m%E1%BA%A1c%20UEFA%20EURO%202020%20_%20NEXT%20SPORTS.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/football-match/linkm3u/main/255px-UEFA_Euro_2020_Logo.svg.png" group-title="UEFA Euro 2020",12/06/2021 Wales vs Switzerland GMT+7
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/football-match/linkm3u/main/255px-UEFA_Euro_2020_Logo.svg.png" group-title="UEFA Euro 2020",12/06/2021 Denmark vs Finland GMT+7
