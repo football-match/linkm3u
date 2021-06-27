@@ -1,5 +1,6 @@
 #EXTM3U RELIVE FOOTBALL
 
+#EXTM3U tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 https://raw.githubusercontent.com/football-match/linkm3u/main/README.m3u
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/0rcmogtz4z2h5zd/images.jfif?dl=0" group-title="https://pastebin.com/raw/3SthAVhJ#.m3u",Euro 2020 27/06 02:00 Italy vs Austria
 https://dl.dropboxusercontent.com/s/mmn25vo0pl2y4lw/Fvideo_None.mp4?dl=0
