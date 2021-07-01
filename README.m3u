@@ -3,9 +3,9 @@
 #EXTM3U tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 https://raw.githubusercontent.com/football-match/linkm3u/main/README.m3u
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/0rcmogtz4z2h5zd/images.jfif?dl=0" group-title="https://pastebin.com/raw/3SthAVhJ#.m3u",Euro 2020 27/06 02:00 Italy vs Austria
-https://raw.githubusercontent.com/mnha-hls/91phut/main/euro2020/60d76b936627a9001cd876fe/file.m3u8
+https://dl.dropboxusercontent.com/s/hmyq28gc45mg12n/file-0-3925.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/0rcmogtz4z2h5zd/images.jfif?dl=0" group-title="https://pastebin.com/raw/3SthAVhJ#.m3u",Euro 2020 24/06 02:00 Germany vs Hungary
-https://raw.githubusercontent.com/mnha-hls/91phut/main/euro2020/file1.m3u8
+https://raw.githubusercontent.com/mnha-hls/91phut/main/e
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/0rcmogtz4z2h5zd/images.jfif?dl=0" group-title="https://pastebin.com/raw/3SthAVhJ#.m3u",Euro 2020 24/06 02:00 Portugal vs France 
 https://dl.dropboxusercontent.com/s/mqk9irztghgxu5r/Fvideo2_None.ts?dl=0
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/0rcmogtz4z2h5zd/images.jfif?dl=0" group-title="https://pastebin.com/raw/3SthAVhJ#.m3u",Euro 2021 22/06 02:00 Nga vs Đan Mạch
